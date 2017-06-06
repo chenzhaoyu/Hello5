@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://travis-ci.org/chenzhaoyu/Hello5"><img src="https://travis-ci.org/chenzhaoyu/Hello5?branch=master#" /></a>
+<a href="https://travis-ci.org/chenzhaoyu/Hello5"><img src="https://travis-ci.org/chenzhaoyu/Hello5.svg?branch=master" /></a>
 </p>
 
 # Hello5
