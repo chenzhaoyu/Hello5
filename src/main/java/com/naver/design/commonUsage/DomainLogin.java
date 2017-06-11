@@ -5,5 +5,6 @@ public class DomainLogin implements Login {
     public boolean login(String password) {
         System.out.println("DomainLogin call");
         return true;
+        
     }
 }
